@@ -1,3 +1,5 @@
+# Rafael Miranda Jimenez
+# Ejercicio para saber si una palabra es palindroma o no
 def es_palindroma(palabra):
     # Convertir la palabra a minúsculas y eliminar espacios
     palabra = palabra.lower().replace(" ", "")
