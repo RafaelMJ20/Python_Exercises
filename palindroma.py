@@ -1,4 +1,5 @@
 # Rafael Miranda Jimenez
+# Tecnologico de Estudios Superiores de Jilotepec
 # Ejercicio para saber si una palabra es palindroma o no
 def es_palindroma(palabra):
     # Convertir la palabra a minúsculas y eliminar espacios
